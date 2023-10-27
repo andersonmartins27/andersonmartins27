@@ -1,5 +1,9 @@
 # 👋🏼 Hello! Welcome to my GitHub profile
 
+
+[![Anderson Martins' GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonmartins27&show_icons=true&theme=transparent)](https://github.com/andersonmartins27/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmartins27&theme=transparent)](https://github.com/andersonmartins27/github-readme-stats)
+
 ## My name is Anderson Martins
 - 💻 Computer Science Student at Centro Universitário Farias Brito
 - 🧠 I'm learning Python and JavaScript
